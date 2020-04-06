@@ -1,2 +1,2 @@
 # clone-Youtube
- clone Youtube made with NodeJS, MongoDB
+clone youtube with Vanilla and NodeJS

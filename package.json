@@ -1,0 +1,11 @@
+{
+  "name": "clone-youtube",
+  "version": "1.0.0",
+  "description": "clone youtube with Vanilla and NodeJS",
+  "main": "index.js",
+  "author": "SungBalance",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
