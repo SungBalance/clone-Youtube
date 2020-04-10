@@ -11,6 +11,9 @@ import routes from "./routes";
 
 const app = express();
 
+app.set('view engine', "pug");
+// pug is a templete language, view engine of express
+
 app.use(cookieParser());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
